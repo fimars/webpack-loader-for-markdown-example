@@ -11,4 +11,4 @@ npm install
 npm test
 ```
 
-then, visit [here](localhost:8000).
+then, visit [here](http://localhost:8000).
