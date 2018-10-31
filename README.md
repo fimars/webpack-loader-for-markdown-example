@@ -1,4 +1,4 @@
-# Markdown loader with TypeScript & React
+# markdown loader with TypeScript & React
 
 Try to handle the markdown thing with `ts-loader`
 
